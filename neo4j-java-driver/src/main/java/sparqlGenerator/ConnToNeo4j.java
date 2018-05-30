@@ -15,8 +15,8 @@ import org.neo4j.driver.v1.Transaction;
 public class ConnToNeo4j {
 	private final Driver driver;
 	private final String uri = "bolt://localhost:7687";
-	private final String user = "neo4j";
-	private final String password = "8660841157pyjz";
+	private final String user = "";
+	private final String password = "";
 	
 	public ConnToNeo4j()
     {
