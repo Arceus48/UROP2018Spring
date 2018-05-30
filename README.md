@@ -1,1 +1,1 @@
-# For detailed readme, please click into the source code.
+# For detailed description, please click into the source code.
